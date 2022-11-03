@@ -1,0 +1,47 @@
+.text{
+    color: coral;
+}
+.shadow{
+    text-shadow:  2px 1px 4px black;
+}
+
+
+a{
+        text-decoration-line: none;
+        color: darkslateblue;
+}
+
+ li{
+     font-weight: bold;
+ }
+
+.ita{
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.marg-ext{
+    margin:15px;
+    text-shadow: 3px 4px 1px purple;
+}
+
+.marg-int{
+    padding:20px;
+    text-shadow: 2px 2px 2px red;
+}
+
+p{
+    text-indent:20px
+}
+
+.cadre{
+    border:1px solid black;
+
+
+}
+
+
+
+
+
+
